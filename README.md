@@ -1,6 +1,9 @@
-# Samaha Hasan
+# Samaha Hasan Al-Fadhli
 
-- Full-Stack Web Developer
+- 👩🏻‍💻 Full-Stack Web Developer
+- ❤️‍🔥 I love to work with Laravel
+- 🤖 Intrested in AI and  I leverage its techniques in my applications
+- ☛ Find me on [LinkedIn](https://www.linkedin.com/in/samaha-hasan-69b824224/) 
   
 
 <hr/>
